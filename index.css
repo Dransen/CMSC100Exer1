@@ -1,0 +1,20 @@
+fieldset {
+		background-color: olive; 
+		opacity: 0.9;
+		width:1000px;
+		margin: auto;
+}
+h3{
+	color: white;
+	font-weight: bold;
+	font-stretch: semi-expanded;
+	font-family: sans-serif; 
+	font-size: 100px;
+	font-weight: bold;
+	font-style: oblique;
+
+}
+h4{
+	color: olive;
+	font-size: 40px;
+}
