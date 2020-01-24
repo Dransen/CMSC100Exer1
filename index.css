@@ -1,11 +1,6 @@
-fieldset {
-		background-color: olive; 
-		opacity: 0.9;
-		width:1000px;
-		margin: auto;
-}
+
 h3{
-	color: white;
+	color: blue;
 	font-weight: bold;
 	font-stretch: semi-expanded;
 	font-family: sans-serif; 
